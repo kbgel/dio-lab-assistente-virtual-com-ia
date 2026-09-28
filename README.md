@@ -65,9 +65,15 @@ Para garantir que a Cybele atue de forma responsável no sensível contexto fina
 Aqui estão alguns testes reais mostrando a Cybele em ação no terminal:
 
 <details>
-  <summary><b>Clique para ver a Cybele identificando um Phishing</b></summary>
+  <summary><b>Clique para ver a Cybele se apresentando</b></summary>
   
-  ![Teste de Phishing](assets/teste-avaliacao-e-cartilha.png)
+  ![Teste de Persona](assets/teste-persona.png)
+</details>
+
+<details>
+  <summary><b>Clique para ver a Cybele lidando com um assunto fora do seu escopo</b></summary>
+  
+  ![Teste de Edge Case](assets/teste-edge-case.png)
 </details>
 
 <details>
@@ -76,7 +82,23 @@ Aqui estão alguns testes reais mostrando a Cybele em ação no terminal:
   ![Teste de Investimento](assets/teste-nao-recomendacao.png)
 </details>
 
-Mais testes podem ser encontrados na pasta `assets`.
+<details>
+  <summary><b>Clique para ver a Cybele identificando um Phishing</b></summary>
+  
+  ![Teste de Phishing](assets/teste-avaliacao-e-cartilha.png)
+</details>
+
+<details>
+  <summary><b>Clique para ver a Cybele ajudando o usuário a lidar com um incidente</b></summary>
+  
+  ![Teste de Incidente](assets/teste-incidente.png)
+</details>
+
+<details>
+  <summary><b>Clique para ver como é a explicação da Cybele</b></summary>
+  
+  ![Teste de Explicacao](assets/teste-explicacao.png)
+</details>
 
 ## 🔮 Melhorias Futuras (Roadmap)
 
