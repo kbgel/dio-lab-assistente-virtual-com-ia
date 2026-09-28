@@ -60,7 +60,26 @@ Para garantir que a Cybele atue de forma responsável no sensível contexto fina
 - **Não solicita credenciais:** orientada a nunca pedir senhas ou tokens ao usuário.
 - **Redirecionamento:** instruída a direcionar os usuários aos canais oficiais do banco em caso de suspeita real.
 
+## 📸 Demonstração (Testes Práticos)
+
+Aqui estão alguns testes reais mostrando a Cybele em ação no terminal:
+
+<details>
+  <summary><b>Clique para ver a Cybele identificando um Phishing</b></summary>
+  
+  ![Teste de Phishing](assets/teste-avaliacao-e-cartilha.png)
+</details>
+
+<details>
+  <summary><b>Clique para ver a Cybele recusando indicação de investimento</b></summary>
+  
+  ![Teste de Investimento](assets/teste-nao-recomendacao.png)
+</details>
+
+Mais testes podem ser encontrados na pasta `assets`.
+
 ## 🔮 Melhorias Futuras (Roadmap)
 
 - [ ] Expandir a `cartilha_seguranca` com novos cenários (ex: Golpe do boleto falso, Sequestro de WhatsApp).
 - [ ] Construir a Etapa 4 (Aplicação Funcional) do desafio com uma interface visual (como Streamlit ou Gradio) usando LangChain/LlamaIndex.
+- [ ] Continuar refinando o estilo de respostas da Cybele, por exemplo, deixando mais enxutas.
